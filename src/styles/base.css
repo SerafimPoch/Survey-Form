@@ -1,0 +1,25 @@
+label {
+  font-size: 18px;
+  width: 40%;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"] {
+  height: 20px;
+  width: 280px;
+  border: 1px solid #c0c0c0;
+  border-radius: 2px;
+  padding: 5px;
+}
+
+select {
+  height: 35px;
+  width: 140px;
+  margin-left: 10px;
+}
+
+textarea {
+  height: 50px;
+  width: 280px;
+}
